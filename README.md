@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/logo.svg" alt="Movie Flow Logo" width="120" />
+  <img src="assets/icon.ico" alt="Movie Flow Logo" width="120" />
 
   # 🎬 Movie Flow AI
   
