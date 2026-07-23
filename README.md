@@ -1,7 +1,5 @@
-<div align="center">
-  <img src="assets/icon.ico" alt="Movie Flow Logo" width="120" />
 
-  # 🎬 Movie Flow AI
+# 🎬 Movie Flow AI
   
   **Otomatisasi Cerdas untuk Pembuatan Akun & Manajemen Workflow**
 
