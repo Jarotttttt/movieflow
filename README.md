@@ -52,7 +52,7 @@ Bagi Anda yang tidak ingin repot dengan Python, cukup unduh file siap pakainya:
 
 ## 📸 Tampilan UI
 
-Antarmuka dirancang untuk kemudahan penggunaan dengan sistem kartu pemantau (Target, Berhasil, Gagal) dan kontrol aksi yang terpusat. Grafis menggunakan SVG murni untuk ketajaman resolusi maksimal.
+Antarmuka dirancang untuk kemudahan penggunaan dengan sistem kartu pemantau (Target, Berhasil, Gagal) dan kontrol aksi yang terpusat. Grafis menggunakan SVG murni untuk ketajaman resolusi maksimal[...]
 
 ## 📝 Lisensi & Disclaimer
 
